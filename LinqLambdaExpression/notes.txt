@@ -1,0 +1,17 @@
+EF Database First Yaklaþýmý
+
+Öncelikle projemizi EF Core'a uygun hale getirelim.
+
+Microsoft.EntityFrameworkCore
+Microsoft.EntityFrameworkCore.SqlServer
+Microsoft.EntityFrameworkCore.Tools
+Microsoft.EntityFrameworkCore.Design
+
+LINQ (Language Integrated Query)
+Yazýlým projesi geliþtirilen dili terk etmeden, proje içinde çeþitli veri kaynaklarýna sorgular yapma imkaný saðlayan ortak bir teknolojidir.
+
+Lambda Expression
+Lambda ifadeleri özellikle Linq sorgularýnda kýsa ve öz ifadeler yazarak daha okunabilir ve anlaþýlýr kod yazmayý saðlar.
+
+https://github.com/erjan123/101-LINQ-Samples
+http://linq101.nilzorblog.com/linq101-lambda.php
